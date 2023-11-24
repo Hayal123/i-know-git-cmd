@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFYbLjskMt/mQYh3oMoAwzAigX6IAV9spYcOiBcRRNi khayal2009@mail.ru
